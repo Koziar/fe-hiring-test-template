@@ -107,3 +107,8 @@ Sample unit test:
 -   When the user clicks on "use my location", a request is made to OpenWeatherMap's API with the browser's coordinates
 
 > This tests: Interacting with native Browser APIs, Refactoring without losing previous functionality, Testing/mocking native browser functionality.
+
+
+## M1/ARM Macbook setup
+
+blablabla
